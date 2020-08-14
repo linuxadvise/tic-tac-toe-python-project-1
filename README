@@ -1,0 +1,31 @@
+#### Please use Jupyter notebook for the execution ###########################
+
+
+Alright people, now that we have gone through all the basic fundamentals of Python.
+We are now going to create a simple project with Python.
+
+Project Name: Tic Tac Toe Game
+Functionality:
+
+-	2 Players should be able to play the game (Both sitting at the same computer)
+-	The board should be printed out every time a player makes a move
+-	You should be able to accept input of the player position and then place symbol on the board.
+-	We will use the numpad to match numbers to the grid on a tic tac toe board:
+
+ 
+
+-	First user will select the number where he wants to place the number and then select the symbol either X or O
+- 	After that a loop will run accepting user input until a player wins
+
+
+
+
+
+
+
+
+
+
+
+
+
